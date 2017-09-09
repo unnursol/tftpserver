@@ -11,7 +11,7 @@ Usage
 The usage is really simple:
 ```
 usage:
-	./tftpserv [base directory] [port]
+	./src/tftp [port] [base directory]
 ```
 
 The *base directory* argument specify the directory containing the files you want to distribute with the server.
